@@ -1,0 +1,74 @@
+   
+   h1{
+    text-align: center;
+    color: black;
+    background-color: white;
+}
+ h2{
+    text-align: center;
+    color: black;
+    background-color: white;
+}
+ #navbar1{
+    height: 60px;
+    background-color: black;
+    color:red;
+    font-size: 20px;
+    justify-content: space-evenly;
+}
+#navbar2{
+    height: 60px;
+    background-color: black;
+    color: red;
+    font-size: 20px;
+    justify-content: space-evenly;
+  
+}
+#navbar3{
+    height: 60px;
+    background-color: black;
+    color: red;
+    font-size: 20px;
+    justify-content: space-evenly;
+}
+#navbar4{
+    height: 60px;
+    background-color: black;
+    color: red;
+    font-size: 20px;
+    justify-content: space-evenly;
+}
+button{
+    color: blue;
+    background-color: white;
+}
+ #logo{
+    
+    font-size:medium;
+    justify-content: space-evenly;
+  
+}
+    
+
+a{
+    margin-right: 150px;
+    text-decoration: none;
+    color: white;
+}
+ 
+
+
+
+#bottun1{
+    text-align: right;
+    color: blue;
+    margin-right: 900px;
+    
+}
+#bottun2{
+    text-align: left;
+    color: blue;
+ 
+    
+    
+}
